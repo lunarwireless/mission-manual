@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="http://i.imgur.com/pELz6st.png?1" width="720px"/><br>
-  A screenshot from Spotify's Scaling SCRUM video
+  <i>A screenshot from Spotify's Scaling SCRUM video</i>
 </p>
 Our goal at Lunar regarding product management is to operate with a high level of autonomy and alignment.
 
