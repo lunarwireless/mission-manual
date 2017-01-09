@@ -1,2 +1,1 @@
-# scrum-manifesto
-Lunar's internal manifesto for product management
+Check the Wiki
