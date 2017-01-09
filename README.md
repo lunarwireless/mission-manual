@@ -1,7 +1,12 @@
-# Lunar's Guide To Scrum and Product Management
+<p align="center">
+  <img src="https://joinlunar.com/wp-content/uploads/2016/10/blue-red-dots.png" width="320px"/>
+</p>
 
+<h1 align="center"> Guide To Scrum and Product Management </h1>
+
+<p align="center">
 <img src="http://i.imgur.com/pELz6st.png?1" width="720px"/>
-
+</p>
 Our goal at Lunar regarding product management is to operate with a high level of autonomy and alignment.
 
 In order to make sure we're hitting our deadlines and still moving fast, we will be following this manifesto.
