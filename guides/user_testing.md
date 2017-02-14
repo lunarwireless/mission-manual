@@ -18,29 +18,20 @@
 * Run another test based on feedback
 
 # Cohorts:
-* Older Aged LMI
+* Older Aged
   * Age: 45+
-  * Household Income: 0 - 50,000
-
-* General LMI:
-  * Age: No restriction
-  * Household Income: 0 - 50,000
-  * Employment Status: Full Time & Part Time
 
 * General:
   * Age: No restriction
-  * Household Income: No restriction
-  * Employment Status: No restriction
+
+* No Restrictions:
+  * Age: No restriction
 
 # General Survey Qs:
+* Age
 * Location
 * Education Level
 * Employment
 * Household Income Bracket
 * Primary Mobile Device
   * Smartphone? How long?
-* Age
-* Who do you think is the perfect user for Lunar?
-* Employment Status
-* How much do you pay for your phone bill?
-* Do you pay your own phone bill?
