@@ -43,3 +43,4 @@
 * Who do you think is the perfect user for Lunar?
 * Employment Status
 * How much do you pay for your phone bill?
+* Do you pay your own phone bill?
